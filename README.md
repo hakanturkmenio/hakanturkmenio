@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakan Türkmen</h1>
 <h3 align="center">passionate Full Stack developer and Flutter learner from Turkey</h3>
 
-<img src="https://c.tenor.com/d2Hi1JQviEUAAAAM/bruce-almighty-type.gif" align="center>
+<img src="https://c.tenor.com/d2Hi1JQviEUAAAAM/bruce-almighty-type.gif" align="center  width="auto">
 
 - 🌱 I’m currently learning **JavaScript, PHP, Flutter**
 
