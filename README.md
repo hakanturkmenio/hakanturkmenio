@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://c.tenor.com/d2Hi1JQviEUAAAAM/bruce-almighty-type.gif" width="auto">
 </p>
+
 - 🌱 I’m currently learning **JavaScript, PHP, Flutter**
 
 - 💬 Ask me about **HTML5, CSS3 ,JavaScript**
